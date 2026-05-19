@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.Scanner;
 public class MinElements {
     public static void main(String s[])

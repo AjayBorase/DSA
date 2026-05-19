@@ -1,7 +1,8 @@
+package Arrays;
 import java.util.Scanner;
-public class MaxElements
+public class ArraySum
 {
-    public static void main(String[] args)
+    public static void main(String s[])
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -10,13 +11,11 @@ public class MaxElements
         {
             arr[i]=sc.nextInt();
         }
-        int max=arr[0];
-        for(int i=1;i<n;i++){
-        if(arr[i]>max)
+        int sum=0;
+        for(int i=0;i<n;i++)
         {
-            max=arr[i];
+            sum=sum+arr[i];
         }
-    }
-        System.out.println("the max element is:"+max);
+        System.out.println("the sum is:"+sum);
     }
 }
