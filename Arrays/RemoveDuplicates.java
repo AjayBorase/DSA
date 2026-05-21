@@ -6,8 +6,6 @@ public class RemoveDuplicates {
          System.out.println("enter the size of array");
         int n=sc.nextInt();
         int arr[]=new int[n];
-        System.out.println("Enter the no whose frequency need to be checked");
-        
         int uniqueIndex=0;
         System.out.println("enter array elements");
         for(int i=0;i<n;i++)
