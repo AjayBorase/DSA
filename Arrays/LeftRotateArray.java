@@ -7,7 +7,6 @@ public class LeftRotateArray {
         int n=sc.nextInt();
         
         int arr[]=new int[n];
-         
         System.out.println("enter array elements");
         for(int i=0;i<n;i++)
         {
