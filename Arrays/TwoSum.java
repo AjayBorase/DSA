@@ -1,7 +1,5 @@
 package Arrays;
 import java.util.Scanner;
-
-import javax.sql.rowset.spi.SyncResolver;
 public class TwoSum {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
