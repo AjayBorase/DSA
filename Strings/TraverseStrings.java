@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Strings;
 import java.util.Scanner;
 public class TraverseStrings {
@@ -12,3 +13,6 @@ public class TraverseStrings {
 
     }
 }
+=======
+
+>>>>>>> 443931f04765692ed822c96ef4caedfd63ce53ab
