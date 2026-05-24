@@ -14,4 +14,11 @@ public class TraverseStrings {
       System.out.println(rev);
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+
+
+
+>>>>>>> 5a97d9e4e6a87090c44fcda30fc95814801e586e
